@@ -1,5 +1,5 @@
 # Muhammad Bilal
-👋Hi, I'm Bilal, I like making fun, interactive things with code 🚀
+👋 Hi, I'm Bilal, I like making fun, interactive things with code 🚀
 
 ## I’m always up for a chat.
 - Twitter: https://twitter.com/mbilalsiddique1
