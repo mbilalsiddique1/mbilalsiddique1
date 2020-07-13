@@ -8,7 +8,7 @@ My areas of expertise are:
 - 👨🏼‍🎨 Scaling Design Systems
 - 💅 CSS and CSS-in-JS
 
-If you need support with any of the technologies mentioned above please contact me or consider donating right away!
+If you need help with any of the technologies mentioned above please contact me right away!
 
 ## I’m always up for a chat.
 - Twitter: https://twitter.com/mbilalsiddique1
